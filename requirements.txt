@@ -1,6 +1,6 @@
 datetime>=3.8.0
 requests>=2.26.0
-json>=0.1.0
+json2json>=0.1.0
 ime>=0.0.1
 string>=0.0.3
 random>=1.0.1
